@@ -5,4 +5,4 @@
 
 
 
-Print("Hello There and Welcome to my projects, the world of programming is new to me, so if you have any advices, suggestions or tip's let me know ok?")
+Print("Hello There and Welcome to my projects, the world of programming is new to me, so if you have any advices, suggestions or tip's let me know ok? Bye  =D")
